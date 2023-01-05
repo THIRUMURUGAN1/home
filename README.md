@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -55,12 +55,12 @@
 		<form action="C:\Users\Dell\Documents\Integration\home.html" method="post">
 			<div class="container">
 				<label for="uname"><b>Username</b></label>
-				<input type="text" placeholder="Enter Username" name="uname" required></br></br>
+				<input type="text" placeholder="Enter Username" name="uname" required>
 
 				<label for="psw"><b>Password</b></label>
-				<input type="password" placeholder="Enter Password" name="psw" required></br>
+				<input type="password" placeholder="Enter Password" name="psw" required>
         
-				<button type="submit">Login</button></br>
+				<button type="submit">Login</button>
 				
 				
 			</div>
